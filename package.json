@@ -1,16 +1,29 @@
-
-  {
+{
     "name": "mesa-de-ayuda",
     "version": "1.0.0",
     "description": "Proyecto de Mesa de Ayuda",
     "main": "index.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
+      "test": "echo \"No test specified\" && exit 0", 
       "start": "node index.js",
       "runConsultar": "node consultarticket.js"
     },
     "author": "Carlos Enciso",
-    "license": "ISC"
+    "license": "ISC",
+    "dependencies": {
+      
+    },
+    "devDependencies": {
+      
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Carl147896321/Mesa-de-Ayuda"
+    },
+    "bugs": {
+      "url": "https://github.com/Carl147896321/Mesa-de-Ayuda/issues"
+    },
+    "homepage": "https://github.com/Carl147896321/Mesa-de-Ayuda"
   }
   
   
