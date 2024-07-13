@@ -1,4 +1,5 @@
-{
+
+  {
     "name": "mesa-de-ayuda",
     "version": "1.0.0",
     "description": "Proyecto de Mesa de Ayuda",
@@ -6,9 +7,10 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1",
       "start": "node index.js",
-      "run:consultar": "node consultarticket.js"
+      "runConsultar": "node consultarticket.js"
     },
     "author": "Carlos Enciso",
     "license": "ISC"
   }
+  
   
